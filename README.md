@@ -23,7 +23,7 @@ Build practical skills in:
 | Day    | Topic                  | Status       |
 | ------ | ---------------------- | ------------ |
 | Day 01 | Python Basics          | ✅ Completed |
-| Day 02 | Data Types & Operators | ⏳           |
+| Day 02 | Data Types & Operators | ✅ Completed |
 | Day 03 | Conditions             | ⏳           |
 
 ## Projects
