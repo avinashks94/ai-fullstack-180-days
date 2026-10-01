@@ -25,6 +25,7 @@ Build practical skills in:
 | Day 01 | Python Basics          | ✅ Completed |
 | Day 02 | Data Types & Operators | ✅ Completed |
 | Day 03 | Conditions             | ✅ Completed |
+| Day 04 | Python collections     | ✅ Completed |
 
 ## Projects
 
