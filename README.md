@@ -20,13 +20,14 @@ Build practical skills in:
 
 ## Progress
 
-| Day    | Topic                  | Status       |
-| ------ | ---------------------- | ------------ |
-| Day 01 | Python Basics          | ✅ Completed |
-| Day 02 | Data Types & Operators | ✅ Completed |
-| Day 03 | Conditions             | ✅ Completed |
-| Day 04 | Python collections     | ✅ Completed |
-| Day 05 | Python functions       | ✅ Completed |
+| Day    | Topic                     | Status       |
+| ------ | ------------------------- | ------------ |
+| Day 01 | Python Basics             | ✅ Completed |
+| Day 02 | Data Types & Operators    | ✅ Completed |
+| Day 03 | Conditions                | ✅ Completed |
+| Day 04 | Python collections        | ✅ Completed |
+| Day 05 | Python functions          | ✅ Completed |
+| Day 06 | Advanced Python functions | ✅ Completed |
 
 ## Projects
 
